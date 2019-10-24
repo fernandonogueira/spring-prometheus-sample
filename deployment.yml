@@ -20,6 +20,6 @@ spec:
     spec:
       containers:
         - name: sampleapp
-          image: fernandonogueira/spring-prometheus-sample:0.1
+          image: fernandonogueira/spring-prometheus-sample:0.3
           ports:
             - containerPort: 8080
